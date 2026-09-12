@@ -133,6 +133,14 @@ M5Core488 is currently under development and has been tested with real GPIB inst
 The goal is not to build a universal GPIB automation platform.  
 It is simply a convenient way to use existing GPIB instruments without bringing up a PC for every small task.
 
+## Possible future directions
+
+M5Core488 is currently focused on AR488 and GPIB instruments.
+However, the macro execution, logging, touch UI, and Web UI layers are not fundamentally limited to GPIB. Since AR488 is handled as a USB serial device, a similar architecture may also be useful for other command-oriented USB serial devices.
+One possible future direction is a more generic serial macro controller, where communication parameters such as baud rate, line termination, timeout, and other protocol-related settings could be defined per macro or device profile.
+Another possible direction is direct control of USBTMC-compatible instruments, allowing SCPI commands to be sent from the CoreS3 without an AR488 interface.
+These are currently only ideas for future experiments. The present M5Core488 implementation remains focused on AR488.
+
 ## Third-party projects
 
 M5Core488 interoperates with or uses software from projects including:
