@@ -124,7 +124,7 @@ It is intended for use on a trusted LAN only. Do not expose it directly to the I
 ## Documentation
 
 - [Japanese User Manual](docs/manual_ja.md)
-- English manual: planned
+- [English User Manual](docs/manual_en.md)
 
 ## Status
 
