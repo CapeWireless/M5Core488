@@ -122,7 +122,7 @@ Web UI には現在ユーザー認証機能がありません。
 ## ドキュメント
 
 - [日本語ユーザーマニュアル](docs/manual_ja.md)
-- English manual: planned
+- [English User Manual](docs/manual_en.md)
 
 ## Status
 
