@@ -137,7 +137,7 @@ M5Core488 は現在開発中です。
 
 M5Core488 は AR488 と連携し、以下のライブラリ等を利用して開発しています。
 
-- AR488
+- [AR488](https://github.com/Twilight-Logic/AR488)
 - M5Unified
 - M5GFX
 - EspUsbHost
