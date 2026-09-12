@@ -1,0 +1,23 @@
+﻿# AR488 @wait test
+
+++ver
+
+@wait 1000
+
+++mode
+
+@wait 2000
+
+++addr
+
+@wait 500
+
+++auto
+
+@wait 1000
+
+++eoi
+
+@wait 500
+
+++eos

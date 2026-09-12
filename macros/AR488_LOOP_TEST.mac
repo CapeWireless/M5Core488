@@ -1,0 +1,11 @@
+# M5Core488 sectioned macro test
+# No GPIB instrument is required. This exercises AR488 local commands.
+
+[setup]
+++mode 1
+++auto 0
+@wait 500
+
+[loop]
+++ver
+@wait 1000
