@@ -149,7 +149,7 @@ M5Core488 は AR488 と連携し、以下のライブラリ等を利用して開
 - [AR488](https://github.com/Twilight-Logic/AR488)
 - M5Unified
 - M5GFX
-- EspUsbHost
+- [EspUsbHost](https://github.com/tanakamasayuki/EspUsbHost)
 
 各プロジェクトにはそれぞれのライセンスが適用されます。
 
