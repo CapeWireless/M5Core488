@@ -137,7 +137,7 @@ It is simply a convenient way to use existing GPIB instruments without bringing 
 
 M5Core488 interoperates with or uses software from projects including:
 
-- AR488
+- [AR488](https://github.com/Twilight-Logic/AR488)
 - M5Unified
 - M5GFX
 - EspUsbHost
