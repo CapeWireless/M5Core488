@@ -146,4 +146,4 @@ Each third-party project remains subject to its own license.
 
 ## License
 
-M5Core488 source code is intended to be released under the [MIT License](LICENSE).
+M5Core488 source code is released under the [MIT License](LICENSE).
