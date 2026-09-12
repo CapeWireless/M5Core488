@@ -146,4 +146,4 @@ M5Core488 は AR488 と連携し、以下のライブラリ等を利用して開
 
 ## License
 
-M5Core488 本体のコードは [MIT License](LICENSE) のもとで公開する予定です。
+M5Core488 本体のコードは [MIT License](LICENSE) のもとで公開しています。
